@@ -1,6 +1,3 @@
-Midan - Bab Tomah, 10000, 12:00 
-Abo Rimaneh - Alshaghor, 15000, 13:00
-Baramkeh - Alhamraa, 16000, 14:00
-
-
-Note: I am not sure what she exactly meant with Approximate time, so if you know and what I wrote was wrong then feel free to edit :)
+Malki-Babtuma,4,12:23
+Muhajireen-Barzeh,6,11:12
+Harasta-Daria,8,15:23
